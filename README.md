@@ -25,7 +25,7 @@ This repository is published for educational purpose only. If the concept of the
 
 ## Frontend Repository:
 
-https://github.com/codergogoi/microservice-frontend
+https://github.com/elhaddajiOtmane/microservice-frontend
 
 ## POSTMAN Collection
 </br>
